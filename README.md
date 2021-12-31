@@ -4,4 +4,4 @@ ReactJS
 
 editor used : VS Code
 
-api used : https://api.covid19india.org/data.json
+api used : https://disease.sh/v3/covid-19/countries
